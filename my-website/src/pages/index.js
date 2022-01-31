@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Contact Us
           </Link>
         </div>
       </div>
@@ -33,6 +33,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
+        <h1 className="header">NUESTROS PORTALES PARA AXIE INFINITY</h1>
         <HomepageFeatures />
       </main>
     </Layout>

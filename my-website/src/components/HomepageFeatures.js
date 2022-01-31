@@ -4,32 +4,30 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Portal Inversor',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      Si buscas no quedarte fuera de este barco pero no dispones de tiempo ni conocimientos o simplemente no tienes ganas de complicarte este es el portal para ti.
+      Como inversor en juegos P2E solo deberás contar con el capital inicial y nosotros haremos todo el trabajo para que te encargues simplemente de ver los resultados.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Portal Manager',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Si queres sumarte a los juegos P2E pero no sabes como hacerlo te ofrecemos ayudarte y acompañarte en todo el proceso, gestionar junto a vos y tus NFT, y brindarte todas las herramientas que necesites para que puedas armar tu propio negocio dentro de este maravilloso mundo.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Portal Jugador',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Si tienes ganas y tiempo pero no cuentas con capital para poder empezar no te preocupes! No vas a quedarte fuera. Tenemos la opción de becarte como scholar, enseñarte a jugar y que pases a formar parte de nuestro team de jugadores de juegos P2E.
       </>
     ),
   },
